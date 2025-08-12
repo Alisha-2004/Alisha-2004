@@ -1,67 +1,77 @@
-<!-- Profile Header -->
-<h1 align="center">
-  Hi there, I'm <span style="color:#4CAF50;">Alisha Mary Shibu</span> 👋
-</h1>
-<h3 align="center">AI & Data Science Student | Developer | IEEE & Community Leader</h3>
-
-<!-- Typing Animation -->
+<!-- Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;Passionate+about+AI+%26+ML;IEEE+WIE+Coordinator+%7C+Leader;Building+Projects+%26+Communities;Always+Learning+%26+Innovating" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Alisha+Mary+Shibu;AI+%26+Data+Science+Engineer;Leader+%7C+Innovator+%7C+Tech+Enthusiast;Passionate+about+AI%2C+ML%2C+and+Robotics" alt="Typing Animation" />
 </p>
 
 ---
 
-<!-- About Me -->
 ## 🚀 About Me
-🎓 3rd-year **BTech AI & Data Science** student at Muthoot Institute of Technology and Science  
-💡 Passionate about **AI, ML, Data Science, and Robotics**  
-🌱 Active in **IEEE, NSS, and Young Indians - CII YUVA**  
-👩‍💻 Building impactful projects that solve **real-world problems**  
-🎯 Strong leadership experience in **community building & event management**
+🎓 **3rd-year BTech AI & DS student** at Muthoot Institute of Technology and Science  
+🤖 Passionate about **AI, ML, Data Science, and Robotics**  
+📚 Active in **IEEE, NSS, and multiple leadership roles**  
+🌟 Google Cloud & IBM SkillsBuild Certified | NPTEL Elite in Python & Data Science  
+💡 Building projects that bridge **technology and real-world impact**  
+
+📧 **Email:** alishamaryshibu@gmail.com  
+🔗 **LinkedIn:** [Alisha Mary Shibu](https://www.linkedin.com/in/alisha-mary-shibu-730040257/)  
+🔗 **GitHub:** [Alisha-2004](https://github.com/Alisha-2004)
 
 ---
 
-<!-- Animated Skills -->
-## 🛠️ Skills & Tools
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,github,git,figma,mysql,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,java,c,cpp,mysql,linux,figma" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisha-2004&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alisha-2004&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alisha-2004&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alisha-2004&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Contribution Graph Animation
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alisha-2004/Alisha-2004/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alisha-2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
 
-<!-- Contact -->
-## 📫 Connect with Me
+## 📌 Top Contributed Repo
 <p align="center">
-  <a href="mailto:alishamaryshibu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alisha-mary-shibu-730040257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Alisha-2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-<!-- Footer Animation -->
+## 📜 Profile Summary
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisha-2004&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:alishamaryshibu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alisha-mary-shibu-730040257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Alisha-2004"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/Alisha-2004"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-2004&repo=MITS-Store-Management&theme=tokyonight"></a>
+  <a href="https://github.com/Alisha-2004"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alisha-2004&repo=University-Chatbot&theme=tokyonight"></a>
 </p>
