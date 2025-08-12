@@ -5,16 +5,36 @@
 
 ---
 
-## 🚀 About Me
-🎓 **3rd-year BTech AI & DS student** at Muthoot Institute of Technology and Science  
-🤖 Passionate about **AI, ML, Data Science, and Robotics**  
-📚 Active in **IEEE, NSS, and multiple leadership roles**  
-🌟 Google Cloud & IBM SkillsBuild Certified | NPTEL Elite in Python & Data Science  
-💡 Building projects that bridge **technology and real-world impact**  
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ALISHA%20MARY%20SHIBU-3rd%20Year%20AI%20%26%20DS%20Student-blueviolet?style=for-the-badge&logo=github" alt="Banner"/>
+</p>
 
-📧 **Email:** alishamaryshibu@gmail.com  
-🔗 **LinkedIn:** [Alisha Mary Shibu](https://www.linkedin.com/in/alisha-mary-shibu-730040257/)  
-🔗 **GitHub:** [Alisha-2004](https://github.com/Alisha-2004)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=FF5F6D&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Explorer;Robotics+Enthusiast;Machine+Learning+Innovator;Leadership+%26+Community+Builder;IEEE+Women+in+Engineering+Coordinator" alt="Typing Animation" />
+</p>
+
+---
+
+### 💫 About Me  
+
+> 🚀 **Passionate Problem Solver** with a knack for **AI, Data Science, and Robotics**  
+> 🧠 Skilled in **Python, Flask, R, Data Analytics, and Machine Learning**  
+> 🌍 **Active Leader** in IEEE, NSS, and Young Indians – creating impact beyond the classroom  
+> 🎯 **Goal-Oriented** – Turning ideas into meaningful solutions  
+
+---
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
+<!-- Animated Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+</p>
 
 ---
 
