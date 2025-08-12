@@ -5,16 +5,24 @@
 
 ---
 
-## 🚀 About Me
-🎓 **3rd-year BTech AI & DS student** at Muthoot Institute of Technology and Science  
-🤖 Passionate about **AI, ML, Data Science, and Robotics**  
-📚 Active in **IEEE, NSS, and multiple leadership roles**  
-🌟 Google Cloud & IBM SkillsBuild Certified | NPTEL Elite in Python & Data Science  
-💡 Building projects that bridge **technology and real-world impact**  
+## 👩‍💻 About Me  
 
-📧 **Email:** alishamaryshibu@gmail.com  
-🔗 **LinkedIn:** [Alisha Mary Shibu](https://www.linkedin.com/in/alisha-mary-shibu-730040257/)  
-🔗 **GitHub:** [Alisha-2004](https://github.com/Alisha-2004)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB703&width=550&lines=AI+%26+Data+Science+Enthusiast;3rd+Year+BTech+Student;Passionate+about+ML+%7C+DS+%7C+Robotics;Leadership+%26+Community+Builder;IEEE+%26+NSS+Active+Member" alt="Typing Animation" />
+</p>
+
+💡 I am **Alisha Mary Shibu**, a passionate **Artificial Intelligence & Data Science** student  
+🌱 Currently exploring **Machine Learning, Data Science, and Robotics**  
+🚀 Active in **IEEE, NSS, and Young Indians**, leading multiple initiatives  
+📚 Skilled in **Python, Flask, R, and Data Analytics**  
+💼 Aspiring to create impactful AI solutions for real-world problems  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" alt="Coding GIF">
+</p>
+
 
 ---
 
