@@ -5,23 +5,37 @@
 
 ---
 
-## 👩‍💻 About Me  
-
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB703&width=550&lines=AI+%26+Data+Science+Enthusiast;3rd+Year+BTech+Student;Passionate+about+ML+%7C+DS+%7C+Robotics;Leadership+%26+Community+Builder;IEEE+%26+NSS+Active+Member" alt="Typing Animation" />
+  <img src="https://img.shields.io/badge/ALISHA%20MARY%20SHIBU-3rd%20Year%20AI%20%26%20DS%20Student-blueviolet?style=for-the-badge&logo=github" alt="Banner"/>
 </p>
 
-💡 I am **Alisha Mary Shibu**, a passionate **Artificial Intelligence & Data Science** student  
-🌱 Currently exploring **Machine Learning, Data Science, and Robotics**  
-🚀 Active in **IEEE, NSS, and Young Indians**, leading multiple initiatives  
-📚 Skilled in **Python, Flask, R, and Data Analytics**  
-💼 Aspiring to create impactful AI solutions for real-world problems  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=FF5F6D&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Explorer;Robotics+Enthusiast;Machine+Learning+Innovator;Leadership+%26+Community+Builder;IEEE+Women+in+Engineering+Coordinator" alt="Typing Animation" />
+</p>
 
 ---
 
+### 💫 About Me  
+
+> 🚀 **Passionate Problem Solver** with a knack for **AI, Data Science, and Robotics**  
+> 🧠 Skilled in **Python, Flask, R, Data Analytics, and Machine Learning**  
+> 🌍 **Active Leader** in IEEE, NSS, and Young Indians – creating impact beyond the classroom  
+> 🎯 **Goal-Oriented** – Turning ideas into meaningful solutions  
+
+---
+
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" alt="Coding GIF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+<!-- Animated Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+</p>
+
 
 
 ---
