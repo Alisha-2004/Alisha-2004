@@ -7,7 +7,7 @@
 
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ALISHA%20MARY%20SHIBU-3rd%20Year%20AI%20%26%20DS%20Student-blueviolet?style=for-the-badge&logo=github" alt="Banner"/>
+  <img src="https://img.shields.io/badge/ALISHA%20MARY%20SHIBU-4th%20Year%20AI%20%26%20DS%20Student-blueviolet?style=for-the-badge&logo=github" alt="Banner"/>
 </p>
 
 <!-- Typing Animation -->
